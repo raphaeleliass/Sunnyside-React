@@ -1,0 +1,23 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+html {
+  @apply scroll-smooth;
+}
+
+body {
+  @apply overflow-x-hidden bg-gray-500 font-Barlow;
+}
+
+.navbar-mobile {
+  @apply fixed left-0 right-0 top-0 rounded-xl py-16 -translate-y-full z-50 mx-6  content-center items-center justify-center bg-white text-2xl font-barlow400 shadow-xl transition-all md:hidden;
+}
+
+.navbar-mobile.active {
+  @apply fixed left-0 right-0 top-20 rounded-xl py-16 z-50 mx-6 -translate-y-0  content-center items-center justify-center bg-white text-2xl font-barlow400 shadow-xl transition-all md:hidden;
+}
+
+.overflow-none{
+  @apply overflow-y-hidden
+}
