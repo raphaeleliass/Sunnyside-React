@@ -80,10 +80,18 @@ The Sunnyside project was developed with the aim of enhancing my learning with R
 
 ### Installation
 
-> First, you should install the dependencies that were used in the project:
+> First, you should install the ViteJS:
 
 ```bash
-npm create vite@latest
+npm create vite@latest -- --my-app
+cd my-app
+npm install
+```
+> Next, you must install the dependencies used in this project:
+
+```bash
+npm create vite@latest -- --my-app
+cd my app
 npm install -D tailwindcss postcss autoprefixer
 npx tailwindcss init -p
 npm install react-icons
