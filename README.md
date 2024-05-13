@@ -11,19 +11,19 @@
   <a href="#about"><strong>Explore the screenshots »</strong></a>
   <br />
   <br />
-  <a href="https://github.com/raphaeleliass/sunnyside-landing-page/issues/new?assignees=&labels=bug&template=01_BUG_REPORT.md&title=bug%3A+">Report a Bug</a>
+  <a href="https://github.com/raphaeleliass/Sunnyside-React/issues/new?assignees=&labels=bug&template=01_BUG_REPORT.md&title=bug%3A+">Report a Bug</a>
   ·
-  <a href="https://github.com/raphaeleliass/sunnyside-landing-page/issues/new?assignees=&labels=enhancement&template=02_FEATURE_REQUEST.md&title=feat%3A+">Request a Feature</a>
+  <a href="https://github.com/raphaeleliass/Sunnyside-React/issues/new?assignees=&labels=enhancement&template=02_FEATURE_REQUEST.md&title=feat%3A+">Request a Feature</a>
   .
-  <a href="https://github.com/raphaeleliass/sunnyside-landing-page/issues/new?assignees=&labels=question&template=04_SUPPORT_QUESTION.md&title=support%3A+">Ask a Question</a>
+  <a href="https://github.com/raphaeleliass/Sunnyside-React/issues/new?assignees=&labels=question&template=04_SUPPORT_QUESTION.md&title=support%3A+">Ask a Question</a>
 </div>
 
 <div align="center">
 <br />
 
-[![Project license](https://img.shields.io/github/license/raphaeleliass/sunnyside-landing-page.svg?style=flat-square)](LICENSE)
+[![Project license](https://img.shields.io/github/license/raphaeleliass/Sunnyside-React.svg?style=flat-square)](LICENSE)
 
-[![Pull Requests welcome](https://img.shields.io/badge/PRs-welcome-ff69b4.svg?style=flat-square)](https://github.com/raphaeleliass/sunnyside-landing-page/issues?q=is%3Aissue+is%3Aopen+label%3A%22help+wanted%22)
+[![Pull Requests welcome](https://img.shields.io/badge/PRs-welcome-ff69b4.svg?style=flat-square)](https://github.com/raphaeleliass/Sunnyside-React/issues?q=is%3Aissue+is%3Aopen+label%3A%22help+wanted%22)
 [![code with love by raphaeleliass](https://img.shields.io/badge/%3C%2F%3E%20with%20%E2%99%A5%20by-raphaeleliass-ff1414.svg?style=flat-square)](https://github.com/raphaeleliass)
 
 </div>
@@ -46,6 +46,8 @@
 ## About
 
 The Sunnyside project was developed with the aim of enhancing my learning with React.js and putting into practice what I have learned so far. Concepts of props, flexbox, and grid were used.
+
+> You can access the website by clicking [here](https://raphaelelias-sunnyside.vercel.app)
 
 <details>
 <summary>Screenshots</summary>
@@ -97,7 +99,7 @@ npm run dev
 
 The original setup of this repository is by [Raphael Elias](https://github.com/raphaeleliass).
 
-For a full list of all authors and contributors, see [the contributors page](https://github.com/raphaeleliass/sunnyside-landing-page/contributors).
+For a full list of all authors and contributors, see [the contributors page](https://github.com/raphaeleliass/Sunnyside-React/contributors).
 
 ## License
 
